@@ -14,7 +14,7 @@ The metrics used:
 
 The web app was built using the **Streamlit** module.
 
-The webpage was deployed in **Heroku**.
+The webpage was deployed on **Heroku**.
 
 Check it out here:
 
