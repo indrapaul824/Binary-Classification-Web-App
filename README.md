@@ -18,5 +18,10 @@ The webpage was deployed on **Heroku**.
 
 Check it out here:
 
-[Binary-Classification-Web-App](https://bin-cls-viz-app.herokuapp.com/)
+https://bin-cls-viz-app.herokuapp.com/
 
+
+I also utilised Streamlit Sharing to automatically host my web app on their server without the need of external shell scripting and other procedures required for hosting a website on heroku.
+
+Check it out here:
+https://share.streamlit.io/indrap24/binary-classification-web-app/main/app.py
